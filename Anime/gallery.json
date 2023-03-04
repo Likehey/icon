@@ -1,0 +1,29 @@
+{
+"icons":
+[
+	{"name":"Global", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Global.png"},  
+	{"name":"China", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/China.png"},
+  {"name":"Bili", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Bili.png"},
+	{"name":"Youtube", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Youtube.png"},
+ 	{"name":"Final", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Final.png"},
+  {"name":"Apple", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Apple.png"},
+  {"name":"Message", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Message.png"},
+  {"name":"Netflix", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Netflix.png"},
+  {"name":"Music", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Music.png"},
+  {"name":"Netease", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Netease.png"},
+  {"name":"Static", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Static.png"},
+  {"name":"Auto", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Auto.png"},
+  {"name":"Game", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Game.png"},
+  {"name":"Scholar", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/Scholar.png"},
+  {"name":"HK", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/HK.png"},
+  {"name":"MO", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/MO.png"},
+  {"name":"TW", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/TW.png"},
+  {"name":"CN", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/CN.png"},
+  {"name":"UN", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/UN.png"},
+  {"name":"UK", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/UK.png"},
+  {"name":"US", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/US.png"},
+  {"name":"JP", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/JP.png"},
+  {"name":"KR", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/KR.png"},
+  {"name":"SG", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Anime\/SG.png"},
+]
+}
