@@ -1,6 +1,27 @@
 {
 "icons":
 [	
+	{"name":"Mainland", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/Mainland.png"},  
+        {"name":"CN", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/CN.png"},  
+	{"name":"HK02", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/HK02.png"}, 
+	{"name":"TW02", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/TW.png"}, 
+	{"name":"JP", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/JP.png"},
+	{"name":"KR", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/KR.png"},
+	{"name":"SG", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/SG.png"},
+	{"name":"US", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/US.png"},
+	{"name":"UK", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/UK.png"},
+	{"name":"AR", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/AR.png"},
+	{"name":"AU", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/AU.png"},
+	{"name":"CA", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/CA.png"},
+	{"name":"DE", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/DE.png"},
+	{"name":"FR", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/FR.png"},
+	{"name":"IN", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/IN.png"},
+	{"name":"IT", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/IT.png"},
+	{"name":"LU", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/LU.png"},
+	{"name":"MN", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/MN.png"},
+	{"name":"RU", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/RU.png"},
+	{"name":"TR", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/TR.png"},
+	
 	{"name":"AdBlock", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/AdBlock.png"},
 	{"name":"Reject", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/Reject.png"},
 	{"name":"BGP", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/BGP.png"},
@@ -16,7 +37,6 @@
 	{"name":"Direct", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/Direct.png"},
 	{"name":"SSID", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/SSID.png"},
 	
-	{"name":"Mainland", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/Mainland.png"},
 	{"name":"CMedia", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/CMedia.png"},
 	{"name":"Aiqiyi", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/Aiqiyi.png"},
 	{"name":"Bilibili", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/Bilibili.png"},
@@ -57,25 +77,5 @@
 	
 	{"name":"Game", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/Game.png"},
 	{"name":"LoL", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/LoL.png"},
-  
-  {"name":"CN", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/CN.png"},  
-	{"name":"HK02", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/HK02.png"}, 
-	{"name":"TW02", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/TW.png"}, 
-	{"name":"JP", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/JP.png"},
-	{"name":"KR", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/KR.png"},
-	{"name":"SG", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/SG.png"},
-	{"name":"US", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/US.png"},
-	{"name":"UK", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/UK.png"},
-	{"name":"AR", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/AR.png"},
-	{"name":"AU", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/AU.png"},
-	{"name":"CA", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/CA.png"},
-	{"name":"DE", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/DE.png"},
-	{"name":"FR", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/FR.png"},
-	{"name":"IN", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/IN.png"},
-	{"name":"IT", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/IT.png"},
-	{"name":"LU", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/LU.png"},
-	{"name":"MN", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/MN.png"},
-	{"name":"RU", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/RU.png"},
-	{"name":"TR", "url":"https:\/\/raw.githubusercontent.com\/Likehey\/icon/main\/Simple\/TR.png"},
 ]
 }
