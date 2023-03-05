@@ -1,0 +1,1513 @@
+{
+    "name": "Handpaintedicons",
+    "icons": [
+        {
+            "name": "Auto_Speed",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Auto_Speed.png"
+        },
+        {
+            "name": "Available",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Available.png"
+        },
+        {
+            "name": "Airport",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Airport.png"
+        },
+        {
+            "name": "BiliBili",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/BiliBili.png"
+        },
+        {
+            "name": "Clubhouse",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Clubhouse.png"
+        },
+        {
+            "name": "Final",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Final.png"
+        },
+        {
+            "name": "KittyLink",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/KittyLink.png"
+        },
+        {
+            "name": "Map",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Map.png"
+        },
+        {
+            "name": "Microsoft",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Microsoft.png"
+        },
+        {
+            "name": "NetEase_Music",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/NetEase_Music.png"
+        },
+        {
+            "name": "Netflix",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Netflix.png"
+        },
+        {
+            "name": "Reject.orig",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Reject.orig.png"
+        },
+        {
+            "name": "Reject",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Reject.png"
+        },
+        {
+            "name": "RoundRobin",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/RoundRobin.png"
+        },
+        {
+            "name": "SSID",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/SSID.png"
+        },
+        {
+            "name": "Select",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Select.png"
+        },
+        {
+            "name": "Speedtest",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Speedtest.png"
+        },
+        {
+            "name": "Streaming",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Streaming.png"
+        },
+        {
+            "name": "StreamingSE",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/StreamingSE.png"
+        },
+        {
+            "name": "Steam",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Steam.png"
+        },
+        {
+            "name": "Tencent",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Tencent.png"
+        },
+        {
+            "name": "TencentVideo",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/TencentVideo.png"
+        },
+        {
+            "name": "Video",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Video.png"
+        },
+        {
+            "name": "WeChat",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/WeChat.png"
+        },
+        {
+            "name": "Air_Bnb",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Air_Bnb.png"
+        },
+        {
+            "name": "Amazon",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Amazon.png"
+        },
+        {
+            "name": "Apple",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Apple.png"
+        },
+        {
+            "name": "Badoo",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Badoo.png"
+        },
+        {
+            "name": "Bebo",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Bebo.png"
+        },
+        {
+            "name": "Behance",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Behance.png"
+        },
+        {
+            "name": "Buzznet",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Buzznet.png"
+        },
+        {
+            "name": "Classmates",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Classmates.png"
+        },
+        {
+            "name": "Daily_Motion",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Daily_Motion.png"
+        },
+        {
+            "name": "Delicious",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Delicious.png"
+        },
+        {
+            "name": "Diaspora",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Diaspora.png"
+        },
+        {
+            "name": "Dots",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Dots.png"
+        },
+        {
+            "name": "Dribbble",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Dribbble.png"
+        },
+        {
+            "name": "Ello",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Ello.png"
+        },
+        {
+            "name": "Etsy",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Etsy.png"
+        },
+        {
+            "name": "Facebook",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Facebook.png"
+        },
+        {
+            "name": "FilmAffinity",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/FilmAffinity.png"
+        },
+        {
+            "name": "Flickr",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Flickr.png"
+        },
+        {
+            "name": "Foursquare",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Foursquare.png"
+        },
+        {
+            "name": "GitHub",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/GitHub.png"
+        },
+        {
+            "name": "Google_Plus",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Google_Plus.png"
+        },
+        {
+            "name": "Hi5",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Hi5.png"
+        },
+        {
+            "name": "Howcast",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Howcast.png"
+        },
+        {
+            "name": "Instagram",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Instagram.png"
+        },
+        {
+            "name": "Kickstarter",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Kickstarter.png"
+        },
+        {
+            "name": "Lastfm",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Lastfm.png"
+        },
+        {
+            "name": "Line",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Line.png"
+        },
+        {
+            "name": "Linkedin",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Linkedin.png"
+        },
+        {
+            "name": "LiveJournal",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/LiveJournal.png"
+        },
+        {
+            "name": "Medium",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Medium.png"
+        },
+        {
+            "name": "Meetup",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Meetup.png"
+        },
+        {
+            "name": "Myspace",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Myspace.png"
+        },
+        {
+            "name": "NextDoor",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/NextDoor.png"
+        },
+        {
+            "name": "Path",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Path.png"
+        },
+        {
+            "name": "Paypal",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Paypal.png"
+        },
+        {
+            "name": "Periscope",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Periscope.png"
+        },
+        {
+            "name": "Pinterest",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Pinterest.png"
+        },
+        {
+            "name": "Quora",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Quora.png"
+        },
+        {
+            "name": "Reddit",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Reddit.png"
+        },
+        {
+            "name": "RenRen",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/RenRen.png"
+        },
+        {
+            "name": "ReverbNation",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/ReverbNation.png"
+        },
+        {
+            "name": "Sina_Weibo",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Sina_Weibo.png"
+        },
+        {
+            "name": "Skype",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Skype.png"
+        },
+        {
+            "name": "Skyrock",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Skyrock.png"
+        },
+        {
+            "name": "Snapchat",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Snapchat.png"
+        },
+        {
+            "name": "Snapfish",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Snapfish.png"
+        },
+        {
+            "name": "SoundCloud",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/SoundCloud.png"
+        },
+        {
+            "name": "Spotify",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Spotify.png"
+        },
+        {
+            "name": "StumbleUpon",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/StumbleUpon.png"
+        },
+        {
+            "name": "Tagged",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Tagged.png"
+        },
+        {
+            "name": "Taringa",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Taringa.png"
+        },
+        {
+            "name": "Telegram",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Telegram.png"
+        },
+        {
+            "name": "TikTok",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/TikTok.png"
+        },
+        {
+            "name": "Tinder",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Tinder.png"
+        },
+        {
+            "name": "Tout",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Tout.png"
+        },
+        {
+            "name": "TripAdvisor",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/TripAdvisor.png"
+        },
+        {
+            "name": "Tumblr",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Tumblr.png"
+        },
+        {
+            "name": "Twitter",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Twitter.png"
+        },
+        {
+            "name": "Uber",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Uber.png"
+        },
+        {
+            "name": "VK",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/VK.png"
+        },
+        {
+            "name": "Viadeo",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Viadeo.png"
+        },
+        {
+            "name": "Vimeo",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Vimeo.png"
+        },
+        {
+            "name": "We_Heart_It",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/We_Heart_It.png"
+        },
+        {
+            "name": "Whatsapp",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Whatsapp.png"
+        },
+        {
+            "name": "XING",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/XING.png"
+        },
+        {
+            "name": "Yelp",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Yelp.png"
+        },
+        {
+            "name": "YouTube",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/YouTube.png"
+        },
+        {
+            "name": "deviantART",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/deviantART.png"
+        },
+        {
+            "name": "Account",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Account.png"
+        },
+        {
+            "name": "Admin",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Admin.png"
+        },
+        {
+            "name": "Adwords",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Adwords.png"
+        },
+        {
+            "name": "Browser",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Browser.png"
+        },
+        {
+            "name": "Browser",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Business.png"
+        },
+        {
+            "name": "Calendar",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Calendar.png"
+        },
+        {
+            "name": "Docs",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Docs.png"
+        },
+        {
+            "name": "Drive",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Drive.png"
+        },
+        {
+            "name": "Forms",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Forms.png"
+        },
+        {
+            "name": "Gmail",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Gmail.png"
+        },
+        {
+            "name": "Google",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Google.png"
+        },
+        {
+            "name": "Google_Maps",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Google_Maps.png"
+        },
+        {
+            "name": "GooglePlus",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/GooglePlus.png"
+        },
+        {
+            "name": "Hangouts",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Hangouts.png"
+        },
+        {
+            "name": "News",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/News.png"
+        },
+        {
+            "name": "Photos",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Photos.png"
+        },
+        {
+            "name": "PlayStore",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/PlayStore.png"
+        },
+        {
+            "name": "Sheets",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Sheets.png"
+        },
+        {
+            "name": "Slides",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Slides.png"
+        },
+        {
+            "name": "Translate",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Translate.png"
+        },
+        {
+            "name": "Vault",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Vault.png"
+        },
+        {
+            "name": "Voice",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Voice.png"
+        },
+        {
+            "name": "YTB",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/YTB.png"
+        },
+        {
+            "name": "Abkhazia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Abkhazia.png"
+        },
+        {
+            "name": "Afghanistan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Afghanistan.png"
+        },
+        {
+            "name": "Aland_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Aland_Islands.png"
+        },
+        {
+            "name": "Albania",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Albania.png"
+        },
+        {
+            "name": "Algeria",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Algeria.png"
+        },
+        {
+            "name": "American_Samoa",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/American_Samoa.png"
+        },
+        {
+            "name": "Andorra",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Andorra.png"
+        },
+        {
+            "name": "Angola",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Angola.png"
+        },
+        {
+            "name": "Anguilla",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Anguilla.png"
+        },
+        {
+            "name": "Antigua_And_Barbuda",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Antigua_And_Barbuda.png"
+        },
+        {
+            "name": "Argentina",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Argentina.png"
+        },
+        {
+            "name": "Armenia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Armenia.png"
+        },
+        {
+            "name": "Aruba",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Aruba.png"
+        },
+        {
+            "name": "Australia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Australia.png"
+        },
+        {
+            "name": "Austria",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Austria.png"
+        },
+        {
+            "name": "Azerbaijan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Azerbaijan.png"
+        },
+        {
+            "name": "Azores_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Azores_Islands.png"
+        },
+        {
+            "name": "Bahamas",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Bahamas.png"
+        },
+        {
+            "name": "Bahrain",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Bahrain.png"
+        },
+        {
+            "name": "Balearic_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Balearic_Islands.png"
+        },
+        {
+            "name": "Bangladesh",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Bangladesh.png"
+        },
+        {
+            "name": "Barbados",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Barbados.png"
+        },
+        {
+            "name": "Basque_Country",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Basque_Country.png"
+        },
+        {
+            "name": "Belarus",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Belarus.png"
+        },
+        {
+            "name": "Belgium",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Belgium.png"
+        },
+        {
+            "name": "Belize",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Belize.png"
+        },
+        {
+            "name": "BeninBenin",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Benin.png"
+        },
+        {
+            "name": "Bermuda",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Bermuda.png"
+        },
+        {
+            "name": "Bhutan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Bhutan.png"
+        },
+        {
+            "name": "Bolivia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Bolivia.png"
+        },
+        {
+            "name": "Bonaire",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Bonaire.png"
+        },
+        {
+            "name": "Bosnia_And_Herzegovina",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Bosnia_And_Herzegovina.png"
+        },
+        {
+            "name": "Botswana",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Botswana.png"
+        },
+        {
+            "name": "Brazil",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Brazil.png"
+        },
+        {
+            "name": "British_Columbia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/British_Columbia.png"
+        },
+        {
+            "name": "British_Indian_Ocean_Territory",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/British_Indian_Ocean_Territory.png"
+        },
+        {
+            "name": "British_Virgin_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/British_Virgin_Islands.png"
+        },
+        {
+            "name": "Brunei",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Brunei.png"
+        },
+        {
+            "name": "Bulgaria",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Bulgaria.png"
+        },
+        {
+            "name": "Burkina_Faso",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Burkina_Faso.png"
+        },
+        {
+            "name": "Burundi",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Burundi.png"
+        },
+        {
+            "name": "Cambodia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Cambodia.png"
+        },
+        {
+            "name": "Cameroon",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Cameroon.png"
+        },
+        {
+            "name": "Canada",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Canada.png"
+        },
+        {
+            "name": "Canary_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Canary_Islands.png"
+        },
+        {
+            "name": "Cape_Verde",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Cape_Verde.png"
+        },
+        {
+            "name": "Cayman_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Cayman_Islands.png"
+        },
+        {
+            "name": "Central_African_Republic",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Central_African_Republic.png"
+        },
+        {
+            "name": "Ceuta",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Ceuta.png"
+        },
+        {
+            "name": "Chad",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Chad.png"
+        },
+        {
+            "name": "Chile",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Chile.png"
+        },
+        {
+            "name": "China",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/China.png"
+        },
+        {
+            "name": "Christmas_Island",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Christmas_Island.png"
+        },
+        {
+            "name": "Cocos_Island",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Cocos_Island.png"
+        },
+        {
+            "name": "Colombia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Colombia.png"
+        },
+        {
+            "name": "Comoros",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Comoros.png"
+        },
+        {
+            "name": "Cook_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Cook_Islands.png"
+        },
+        {
+            "name": "Corsica",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Corsica.png"
+        },
+        {
+            "name": "Costa_Rica",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Costa_Rica.png"
+        },
+        {
+            "name": "Croatia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Croatia.png"
+        },
+        {
+            "name": "Cuba",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Cuba.png"
+        },
+        {
+            "name": "Curacao",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Curacao.png"
+        },
+        {
+            "name": "Cyprus",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Cyprus.png"
+        },
+        {
+            "name": "Czech_Republic",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Czech_Republic.png"
+        },
+        {
+            "name": "Democratic_Republic_Of_Congo",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Democratic_Republic_Of_Congo.png"
+        },
+        {
+            "name": "Denmark",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Denmark.png"
+        },
+        {
+            "name": "Djibouti",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Djibouti.png"
+        },
+        {
+            "name": "Dominica",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Dominica.png"
+        },
+        {
+            "name": "Dominican_Republic",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Dominican_Republic.png"
+        },
+        {
+            "name": "East_Timor",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/East_Timor.png"
+        },
+        {
+            "name": "Ecuador",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Ecuador.png"
+        },
+        {
+            "name": "Egypt",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Egypt.png"
+        },
+        {
+            "name": "El_Salvador",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/El_Salvador.png"
+        },
+        {
+            "name": "England",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/England.png"
+        },
+        {
+            "name": "Equatorial_Guinea",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Equatorial_Guinea.png"
+        },
+        {
+            "name": "Eritrea",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Eritrea.png"
+        },
+        {
+            "name": "Estonia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Estonia.png"
+        },
+        {
+            "name": "Ethiopia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Ethiopia.png"
+        },
+        {
+            "name": "European_Union",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/European_Union.png"
+        },
+        {
+            "name": "Falkland_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Falkland_Islands.png"
+        },
+        {
+            "name": "Faroe_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Faroe_Islands.png"
+        },
+        {
+            "name": "Fiji",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Fiji.png"
+        },
+        {
+            "name": "Finland",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Finland.png"
+        },
+        {
+            "name": "France",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/France.png"
+        },
+        {
+            "name": "French_Polynesia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/French_Polynesia.png"
+        },
+        {
+            "name": "Gabon",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Gabon.png"
+        },
+        {
+            "name": "Galapagos_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Galapagos_Islands.png"
+        },
+        {
+            "name": "Gambia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Gambia.png"
+        },
+        {
+            "name": "Georgia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Georgia.png"
+        },
+        {
+            "name": "Germany",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Germany.png"
+        },
+        {
+            "name": "Ghana",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Ghana.png"
+        },
+        {
+            "name": "Gibraltar",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Gibraltar.png"
+        },
+        {
+            "name": "Greece",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Greece.png"
+        },
+        {
+            "name": "Greenland",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Greenland.png"
+        },
+        {
+            "name": "Grenada",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Grenada.png"
+        },
+        {
+            "name": "Guam",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Guam.png"
+        },
+        {
+            "name": "Guatemala",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Guatemala.png"
+        },
+        {
+            "name": "Guinea",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Guinea.png"
+        },
+        {
+            "name": "Guinea_Bissau",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Guinea_Bissau.png"
+        },
+        {
+            "name": "Guyana",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Guyana.png"
+        },
+        {
+            "name": "Haiti",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Haiti.png"
+        },
+        {
+            "name": "Hawaii",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Hawaii.png"
+        },
+        {
+            "name": "Honduras",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Honduras.png"
+        },
+        {
+            "name": "Hong_Kong",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Hong_Kong.png"
+        },
+        {
+            "name": "Hungary",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Hungary.png"
+        },
+        {
+            "name": "Iceland",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Iceland.png"
+        },
+        {
+            "name": "India",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/India.png"
+        },
+        {
+            "name": "Indonesia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Indonesia.png"
+        },
+        {
+            "name": "Iran",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Iran.png"
+        },
+        {
+            "name": "Iraq",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Iraq.png"
+        },
+        {
+            "name": "Ireland",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Ireland.png"
+        },
+        {
+            "name": "Isle_Of_Man",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Isle_Of_Man.png"
+        },
+        {
+            "name": "Israel",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Israel.png"
+        },
+        {
+            "name": "Italy",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Italy.png"
+        },
+        {
+            "name": "Ivory_Coast",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Ivory_Coast.png"
+        },
+        {
+            "name": "Jamaica",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Jamaica.png"
+        },
+        {
+            "name": "Japan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Japan.png"
+        },
+        {
+            "name": "Jersey",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Jersey.png"
+        },
+        {
+            "name": "Jordan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Jordan.png"
+        },
+        {
+            "name": "Kazakhstan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Kazakhstan.png"
+        },
+        {
+            "name": "Kenya",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Kenya.png"
+        },
+        {
+            "name": "Kiribati",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Kiribati.png"
+        },
+        {
+            "name": "Kosovo",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Kosovo.png"
+        },
+        {
+            "name": "Kuwait",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Kuwait.png"
+        },
+        {
+            "name": "Kyrgyzstan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Kyrgyzstan.png"
+        },
+        {
+            "name": "Laos",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Laos.png"
+        },
+        {
+            "name": "Latvia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Latvia.png"
+        },
+        {
+            "name": "Lebanon",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Lebanon.png"
+        },
+        {
+            "name": "Lesotho",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Lesotho.png"
+        },
+        {
+            "name": "Liberia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Liberia.png"
+        },
+        {
+            "name": "Libya",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Libya.png"
+        },
+        {
+            "name": "Liechtenstein",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Liechtenstein.png"
+        },
+        {
+            "name": "Lithuania",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Lithuania.png"
+        },
+        {
+            "name": "Luxembourg",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Luxembourg.png"
+        },
+        {
+            "name": "Macao",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Macao.png"
+        },
+        {
+            "name": "Madagascar",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Madagascar.png"
+        },
+        {
+            "name": "Madeira",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Madeira.png"
+        },
+        {
+            "name": "Malasya",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Malasya.png"
+        },
+        {
+            "name": "Malawi",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Malawi.png"
+        },
+        {
+            "name": "Maldives",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Maldives.png"
+        },
+        {
+            "name": "Mali",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Mali.png"
+        },
+        {
+            "name": "Malta",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Malta.png"
+        },
+        {
+            "name": "Marshall_Island",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Marshall_Island.png"
+        },
+        {
+            "name": "Martinique",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Martinique.png"
+        },
+        {
+            "name": "Mauritania",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Mauritania.png"
+        },
+        {
+            "name": "Mauritius",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Mauritius.png"
+        },
+        {
+            "name": "Melilla",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Melilla.png"
+        },
+        {
+            "name": "Mexico",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Mexico.png"
+        },
+        {
+            "name": "Micronesia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Micronesia.png"
+        },
+        {
+            "name": "Moldova",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Moldova.png"
+        },
+        {
+            "name": "Monaco",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Monaco.png"
+        },
+        {
+            "name": "Mongolia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Mongolia.png"
+        },
+        {
+            "name": "Montenegro",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Montenegro.png"
+        },
+        {
+            "name": "Montserrat",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Montserrat.png"
+        },
+        {
+            "name": "Morocco",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Morocco.png"
+        },
+        {
+            "name": "Mozambique",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Mozambique.png"
+        },
+        {
+            "name": "Myanmar",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Myanmar.png"
+        },
+        {
+            "name": "Nagorno_Karabakh_Republic",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Nagorno_Karabakh_Republic.png"
+        },
+        {
+            "name": "Namibia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Namibia.png"
+        },
+        {
+            "name": "Nauru",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Nauru.png"
+        },
+        {
+            "name": "Nepal",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Nepal.png"
+        },
+        {
+            "name": "Netherlands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Netherlands.png"
+        },
+        {
+            "name": "New_Zealand",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/New_Zealand.png"
+        },
+        {
+            "name": "Nicaragua",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Nicaragua.png"
+        },
+        {
+            "name": "Niger",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Niger.png"
+        },
+        {
+            "name": "Nigeria",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Nigeria.png"
+        },
+        {
+            "name": "Niue",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Niue.png"
+        },
+        {
+            "name": "Norfolk_Island",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Norfolk_Island.png"
+        },
+        {
+            "name": "North_Korea",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/North_Korea.png"
+        },
+        {
+            "name": "Northern_Cyprus",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Northern_Cyprus.png"
+        },
+        {
+            "name": "Northern_Marianas_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Northern_Marianas_Islands.png"
+        },
+        {
+            "name": "Norway",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Norway.png"
+        },
+        {
+            "name": "Oman",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Oman.png"
+        },
+        {
+            "name": "Ossetia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Ossetia.png"
+        },
+        {
+            "name": "Otan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Otan.png"
+        },
+        {
+            "name": "Pakistan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Pakistan.png"
+        },
+        {
+            "name": "Palau",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Palau.png"
+        },
+        {
+            "name": "Palestine",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Palestine.png"
+        },
+        {
+            "name": "Panama",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Panama.png"
+        },
+        {
+            "name": "Papua_New_Guinea",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Papua_New_Guinea.png"
+        },
+        {
+            "name": "Paraguay",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Paraguay.png"
+        },
+        {
+            "name": "Peru",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Peru.png"
+        },
+        {
+            "name": "Philippines",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Philippines.png"
+        },
+        {
+            "name": "Pitcairn_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Pitcairn_Islands.png"
+        },
+        {
+            "name": "Portugal",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Portugal.png"
+        },
+        {
+            "name": "Puerto_Rico",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Puerto_Rico.png"
+        },
+        {
+            "name": "Qatar",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Qatar.png"
+        },
+        {
+            "name": "Rapa_Nui",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Rapa_Nui.png"
+        },
+        {
+            "name": "Republic_Of_Macedonia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Republic_Of_Macedonia.png"
+        },
+        {
+            "name": "Republic_Of_Poland",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Republic_Of_Poland.png"
+        },
+        {
+            "name": "Republic_Of_The_Congo",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Republic_Of_The_Congo.png"
+        },
+        {
+            "name": "Romania",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Romania.png"
+        },
+        {
+            "name": "Russia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Russia.png"
+        },
+        {
+            "name": "Rwanda",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Rwanda.png"
+        },
+        {
+            "name": "Saba_Island",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Saba_Island.png"
+        },
+        {
+            "name": "Sahrawi_Arab_Democratic_Republic",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Sahrawi_Arab_Democratic_Republic.png"
+        },
+        {
+            "name": "Saint_Kitts_And_Nevis",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Saint_Kitts_And_Nevis.png"
+        },
+        {
+            "name": "Samoa",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Samoa.png"
+        },
+        {
+            "name": "San_Marino",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/San_Marino.png"
+        },
+        {
+            "name": "Sao_Tome_And_Prince",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Sao_Tome_And_Prince.png"
+        },
+        {
+            "name": "Sardinia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Sardinia.png"
+        },
+        {
+            "name": "Saudi_Arabia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Saudi_Arabia.png"
+        },
+        {
+            "name": "Scotland",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Scotland.png"
+        },
+        {
+            "name": "Senegal",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Senegal.png"
+        },
+        {
+            "name": "Serbia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Serbia.png"
+        },
+        {
+            "name": "Seychelles",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Seychelles.png"
+        },
+        {
+            "name": "Sicily",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Sicily.png"
+        },
+        {
+            "name": "Sierra_Leone",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Sierra_Leone.png"
+        },
+        {
+            "name": "Singapore",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Singapore.png"
+        },
+        {
+            "name": "Sint_Eustatius",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Sint_Eustatius.png"
+        },
+        {
+            "name": "Sint_Maarten",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Sint_Maarten.png"
+        },
+        {
+            "name": "Slovakia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Slovakia.png"
+        },
+        {
+            "name": "Slovenia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Slovenia.png"
+        },
+        {
+            "name": "Solomon_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Solomon_Islands.png"
+        },
+        {
+            "name": "Somalia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Somalia.png"
+        },
+        {
+            "name": "Somaliland",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Somaliland.png"
+        },
+        {
+            "name": "South_Africa",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/South_Africa.png"
+        },
+        {
+            "name": "South_Korea",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/South_Korea.png"
+        },
+        {
+            "name": "South_Sudan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/South_Sudan.png"
+        },
+        {
+            "name": "Spain",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Spain.png"
+        },
+        {
+            "name": "Sri_Lanka",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Sri_Lanka.png"
+        },
+        {
+            "name": "St_Barts",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/St_Barts.png"
+        },
+        {
+            "name": "St_Lucia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/St_Lucia.png"
+        },
+        {
+            "name": "St_Vincent_And_The_Grenadines",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/St_Vincent_And_The_Grenadines.png"
+        },
+        {
+            "name": "Sudan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Sudan.png"
+        },
+        {
+            "name": "Suriname",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Suriname.png"
+        },
+        {
+            "name": "Swaziland",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Swaziland.png"
+        },
+        {
+            "name": "Sweden",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Sweden.png"
+        },
+        {
+            "name": "Switzerland",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Switzerland.png"
+        },
+        {
+            "name": "Syria",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Syria.png"
+        },
+        {
+            "name": "Taiwan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Taiwan.png"
+        },
+        {
+            "name": "Tajikistan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Tajikistan.png"
+        },
+        {
+            "name": "Tanzania",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Tanzania.png"
+        },
+        {
+            "name": "Thailand",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Thailand.png"
+        },
+        {
+            "name": "Tibet",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Tibet.png"
+        },
+        {
+            "name": "Togo",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Togo.png"
+        },
+        {
+            "name": "Tokelau",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Tokelau.png"
+        },
+        {
+            "name": "Tonga",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Tonga.png"
+        },
+        {
+            "name": "Transnistria",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Transnistria.png"
+        },
+        {
+            "name": "Trinidad_And_Tobago",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Trinidad_And_Tobago.png"
+        },
+        {
+            "name": "Tunisia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Tunisia.png"
+        },
+        {
+            "name": "Turkey",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Turkey.png"
+        },
+        {
+            "name": "Turkmenistan",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Turkmenistan.png"
+        },
+        {
+            "name": "Turks_And_Caicos",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Turks_And_Caicos.png"
+        },
+        {
+            "name": "Tuvalu",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Tuvalu.png"
+        },
+        {
+            "name": "Uganda",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Uganda.png"
+        },
+        {
+            "name": "Ukraine",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Ukraine.png"
+        },
+        {
+            "name": "United_Arab_Emirates",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/United_Arab_Emirates.png"
+        },
+        {
+            "name": "United_Kingdom",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/United_Kingdom.png"
+        },
+        {
+            "name": "United_Nations",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/United_Nations.png"
+        },
+        {
+            "name": "United_States",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/United_States.png"
+        },
+        {
+            "name": "Uruguay",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Uruguay.png"
+        },
+        {
+            "name": "Uzbekistn",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Uzbekistn.png"
+        },
+        {
+            "name": "Vanuatu",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Vanuatu.png"
+        },
+        {
+            "name": "Vatican_City",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Vatican_City.png"
+        },
+        {
+            "name": "Venezuela",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Venezuela.png"
+        },
+        {
+            "name": "Vietnam",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Vietnam.png"
+        },
+        {
+            "name": "Virgin_Islands",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Virgin_Islands.png"
+        },
+        {
+            "name": "Wales",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Wales.png"
+        },
+        {
+            "name": "Yemen",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Yemen.png"
+        },
+        {
+            "name": "Zambia",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Zambia.png"
+        },
+        {
+            "name": "Zimbabwe",
+            "url": "https://raw.githubusercontent.com/Likehey/icon/main/Handpainted/Zimbabwe.png"
+        }
+    ]
+}
